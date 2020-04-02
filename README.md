@@ -1,2 +1,5 @@
 # thinack
-ACK Thinning, work in the context, data in the context.
+
+ACK Thinning: Reducing the ACK traffic without impacting the application performance.
+
+
